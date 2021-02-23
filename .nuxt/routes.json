@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\home",
+        "_name": "_25932111"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\login",
+        "_name": "_e5ed6d12"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\login",
+        "_name": "_e5ed6d12"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\profile",
+        "_name": "_49039837"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\settings",
+        "_name": "_68af7f55"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\editor",
+        "_name": "_0794091f"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\my_code\\\\my_github\\\\realworld\\\\pages\\\\article",
+        "_name": "_2fcddb84"
+      }
+    ],
+    "_name": "_1362e2dc"
+  }
+]
